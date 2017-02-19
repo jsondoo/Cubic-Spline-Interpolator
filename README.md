@@ -1,5 +1,5 @@
 # Cubic Spline Interpolator
-A jupiter notebook that interpolates a cubic spline from any set of data points given by the user.
+A jupyter notebook that interpolates a cubic spline from any set of data points given by the user.
 
 # Usage
 First, download the jupyter notebook file.
@@ -14,7 +14,7 @@ jupyter notebook
 
 Open the file and enter your data points in the first cell into the x and y array. Then click Cell -> Run All. Scroll down to see the beautiful plot :)
 
-# Example
+# Examples
 a) Data points: (0,5), (1,9), (2,2), (3,4)
 
 Input:
@@ -34,3 +34,6 @@ y = [10, 48, 20, 33, 144, 9, 27]
 ```
 Output:
 <br><img src="https://cloud.githubusercontent.com/assets/21695878/23107812/e05d2afa-f6b8-11e6-8467-c5adffa9837b.png"/>
+
+
+Written in Python 3. Last updated February 19th, 2017.
